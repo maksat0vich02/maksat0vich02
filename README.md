@@ -2,22 +2,6 @@
   <img src="assets/maksat0vich02.gif" alt="maksat0vich02 Animation" width="800" height="125">
 </div>
 
-
-<style>
-  @keyframes slide {
-    0% {
-      transform: translateX(100%);
-    }
-    50% {
-      transform: translateX(-50%);
-    }
-    100% {
-      transform: translateX(-200%);
-    }
-  }
-</style>
-
-
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Beksultan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
