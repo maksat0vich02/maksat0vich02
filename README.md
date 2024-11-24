@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/your-animation.gif" alt="maksat0vich02 Animation" width="800" height="125">
+  <img src="https://i.imgur.com/your-image.gif" alt="maksat0vich02 Animation" width="800" height="125">
 </div>
 
 
