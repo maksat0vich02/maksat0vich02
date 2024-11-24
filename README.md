@@ -1,10 +1,7 @@
-<div align="center" style="background-color: black; padding: 20px;">
-  <div style="position: relative; width: 800px; height: 125px; display: flex; align-items: center; justify-content: center; overflow: hidden; color: white; font-size: 2em; font-family: Arial, sans-serif;">
-    <div style="position: absolute; animation: slide 5s linear infinite; white-space: nowrap; color: #3498db;">
-      maksat0vich02
-    </div>
-  </div>
+<div align="center">
+  <img src="assets/maksat0vich02.gif" alt="maksat0vich02 Animation" width="800" height="125">
 </div>
+
 
 <style>
   @keyframes slide {
