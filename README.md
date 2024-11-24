@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Elkhan2003">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Front-End+Developer"/>
 </a>
 
 ## 📊 My Github Stats
