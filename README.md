@@ -1,6 +1,25 @@
-<div align="center">
-  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+<div align="center" style="background-color: black; padding: 20px;">
+  <div style="position: relative; width: 800px; height: 125px; display: flex; align-items: center; justify-content: center; overflow: hidden; color: white; font-size: 2em; font-family: Arial, sans-serif;">
+    <div style="position: absolute; animation: slide 5s linear infinite; white-space: nowrap; color: #3498db;">
+      maksat0vich02
+    </div>
+  </div>
 </div>
+
+<style>
+  @keyframes slide {
+    0% {
+      transform: translateX(100%);
+    }
+    50% {
+      transform: translateX(-50%);
+    }
+    100% {
+      transform: translateX(-200%);
+    }
+  }
+</style>
+
 
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Beksultan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
