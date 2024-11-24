@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://your-image-hosting-site.com/maksat0vich02.gif" alt="maksat0vich02 Animation" width="800" height="125">
+  <img src="assets/your-animation.gif" alt="maksat0vich02 Animation" width="800" height="125">
 </div>
+
 
 
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Beksultan</a> 
